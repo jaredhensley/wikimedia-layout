@@ -1,1 +1,41 @@
+html {
+}
+
+body {
+  margin: 0 auto;
+  font-family: Arial;
+  line-height: 1.4;
+  font-size: 125%;
+  width: 90%;
+}
+
+header {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+
+section > h3 {
+  text-align: center;
+}
+
+.images {
+  margin: 0 auto;
+  max-width: 575px;
+}
+
+.images .img-box {
+  width: 23%;
+  max-width: 750px;
+  height: auto;
+  display: inline-block;
+}
+
+.images img {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
 
